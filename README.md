@@ -16,3 +16,6 @@ Taxa de vitória por arena.
 Sinergia entre cartas específicas.
 
 Visualizações: Gráficos de barras dinâmicos, treemaps de popularidade e filtros por raridade (Comum, Rara, Épica, Lendária).
+
+---
+Desenvolvido por [Arthur Faleiro](https://github.com/ArthurFaleiro)
